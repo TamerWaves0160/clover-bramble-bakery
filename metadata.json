@@ -1,0 +1,6 @@
+{
+  "name": "Bramble & Clover Bakery",
+  "description": "A licensed cottage bakery in Sour Lake, TX",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
